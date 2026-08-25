@@ -6,6 +6,7 @@
 #include "feature/interface.h"
 
 #include "util/vf_mesh.h"
+#include "util/vector.h"
 
 #include <igl/readOBJ.h>
 #include <igl/remove_unreferenced.h>
